@@ -1,30 +1,3 @@
-# Computer-network
-
-
-
-
-
-
-
-
-
-
-Computer Networks Laboratory Record
-(CS307)
-
-Submitted by
-Name – Naman Thapliyal
-Registration no. - 2018105181
-Semester - V
-Department - CSE
-
-
-                                                      Course In-Charge:
-                                                                               Dr. Lithungo Murry
-                                                                                                                       Ms. Bidyarani
-                                                                                                                       Ms. Khriemeno Nakhro
-
-
 Assignment - 1 
 • Write a simple socket program in c to echo the message from client to server and back to client. 
 1 TCP
